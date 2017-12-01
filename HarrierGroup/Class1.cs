@@ -8,5 +8,6 @@ namespace HarrierGroup
 {
     public class Class1
     {
+		int i = 1;
     }
 }
